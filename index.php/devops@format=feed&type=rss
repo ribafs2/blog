@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>DevOps - Blog do RibaFS</title>
+		<description><![CDATA[]]></description>
+		<link>http://backup/blog/index.php/devops</link>
+		<lastBuildDate>Sat, 20 Apr 2024 23:02:54 -0300</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://backup/blog/index.php/devops?format=feed&amp;type=rss"/>
+		<language>pt-br</language>
+		<item>
+			<title>Instalar Windows em disco USB</title>
+			<link>http://backup/blog/index.php/devops/instalar-windows-em-disco-usb</link>
+			<guid isPermaLink="true">http://backup/blog/index.php/devops/instalar-windows-em-disco-usb</guid>
+			<description><![CDATA[<p> </p>
+<h3>Como instalar Windows 10 ou 11 em um disco USB (Windows To Go)</h3>
+<p> </p>
+<p><a href="https://www.digitalcitizen.life/install-windows-to-go/">https://www.digitalcitizen.life/install-windows-to-go/</a></p>
+<p> </p>]]></description>
+			<category>DevOps</category>
+			<pubDate>Tue, 27 Feb 2024 17:44:14 -0300</pubDate>
+		</item>
+		<item>
+			<title>Backup e Restore do Windows</title>
+			<link>http://backup/blog/index.php/devops/backup-e-restore-do-windows</link>
+			<guid isPermaLink="true">http://backup/blog/index.php/devops/backup-e-restore-do-windows</guid>
+			<description><![CDATA[<p> </p>
+<p><iframe src="https://www.youtube.com/embed/VuwxHJb5se4?si=mApHFBE7oxGTDNJ0" width="560" height="314" allowfullscreen="allowfullscreen"></iframe></p>
+<p> </p>]]></description>
+			<category>DevOps</category>
+			<pubDate>Mon, 26 Feb 2024 08:23:21 -0300</pubDate>
+		</item>
+		<item>
+			<title>Canivete Suiço para Manutenção</title>
+			<link>http://backup/blog/index.php/devops/canivete-suico-para-manutencao</link>
+			<guid isPermaLink="true">http://backup/blog/index.php/devops/canivete-suico-para-manutencao</guid>
+			<description><![CDATA[<p> </p>
+<p><iframe src="https://www.youtube.com/embed/EKcZS-0Vfg8?si=RnK_pxtnDgy0x1td" width="560" height="314" allowfullscreen="allowfullscreen"></iframe></p>
+<p> </p>]]></description>
+			<category>DevOps</category>
+			<pubDate>Mon, 26 Feb 2024 08:18:01 -0300</pubDate>
+		</item>
+	</channel>
+</rss>

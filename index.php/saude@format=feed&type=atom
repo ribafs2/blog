@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt-br">
+	<title type="text">Saúde - Blog do RibaFS</title>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="http://backup"/>
+	<id>http://backup/blog/index.php/saude</id>
+	<updated>2024-04-20T23:02:53-03:00</updated>
+	<author>
+		<name>RibaFS Portal</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="http://backup/blog/index.php/saude?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Fisuculturismo Nanural</title>
+		<link rel="alternate" type="text/html" href="http://backup/blog/index.php/saude/fisuculturismo-nanural"/>
+		<published>2024-03-28T13:13:32-03:00</published>
+		<updated>2024-03-28T13:13:32-03:00</updated>
+		<id>http://backup/blog/index.php/saude/fisuculturismo-nanural</id>
+		<author>
+			<name>Ribamar FS</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;iframe style=&quot;display: table; margin-left: auto; margin-right: auto;&quot; src=&quot;https://www.youtube.com/embed/oSXfutgVJqE?si=5pe1KIxXvMTFwICK&quot; width=&quot;560&quot; height=&quot;314&quot; allowfullscreen=&quot;allowfullscreen&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;iframe style=&quot;display: table; margin-left: auto; margin-right: auto;&quot; src=&quot;https://www.youtube.com/embed/oSXfutgVJqE?si=5pe1KIxXvMTFwICK&quot; width=&quot;560&quot; height=&quot;314&quot; allowfullscreen=&quot;allowfullscreen&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;</content>
+		<category term="Saúde" />
+	</entry>
+	<entry>
+		<title>Usar óculos não é normal</title>
+		<link rel="alternate" type="text/html" href="http://backup/blog/index.php/saude/usar-oculos-nao-e-normal"/>
+		<published>2024-03-14T17:24:16-03:00</published>
+		<updated>2024-03-14T17:24:16-03:00</updated>
+		<id>http://backup/blog/index.php/saude/usar-oculos-nao-e-normal</id>
+		<author>
+			<name>Ribamar FS</name>
+		</author>
+		<summary type="html">&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/ijESKAEQ2C0?si=f6hBXIJUyqeBrYy8&quot; width=&quot;560&quot; height=&quot;314&quot; allowfullscreen=&quot;allowfullscreen&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/ijESKAEQ2C0?si=f6hBXIJUyqeBrYy8&quot; width=&quot;560&quot; height=&quot;314&quot; allowfullscreen=&quot;allowfullscreen&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;</content>
+		<category term="Saúde" />
+	</entry>
+	<entry>
+		<title>Sua aparência não é genética</title>
+		<link rel="alternate" type="text/html" href="http://backup/blog/index.php/saude/sua-aparencia-nao-e-genetica"/>
+		<published>2024-03-11T20:04:34-03:00</published>
+		<updated>2024-03-11T20:04:34-03:00</updated>
+		<id>http://backup/blog/index.php/saude/sua-aparencia-nao-e-genetica</id>
+		<author>
+			<name>Ribamar FS</name>
+		</author>
+		<summary type="html">&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/TssbZ_dzlf4?si=IIAy3Pfki-YkxZQ0&quot; width=&quot;560&quot; height=&quot;314&quot; allowfullscreen=&quot;allowfullscreen&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/TssbZ_dzlf4?si=IIAy3Pfki-YkxZQ0&quot; width=&quot;560&quot; height=&quot;314&quot; allowfullscreen=&quot;allowfullscreen&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;</content>
+		<category term="Saúde" />
+	</entry>
+	<entry>
+		<title>Importância do Microbioma</title>
+		<link rel="alternate" type="text/html" href="http://backup/blog/index.php/saude/importancia-do-microbioma"/>
+		<published>2024-03-11T14:57:59-03:00</published>
+		<updated>2024-03-11T14:57:59-03:00</updated>
+		<id>http://backup/blog/index.php/saude/importancia-do-microbioma</id>
+		<author>
+			<name>Ribamar FS</name>
+		</author>
+		<summary type="html">&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/kOspvm20F6o?si=oCEjtVhooEUHoTR4&quot; width=&quot;560&quot; height=&quot;314&quot; allowfullscreen=&quot;allowfullscreen&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/kOspvm20F6o?si=oCEjtVhooEUHoTR4&quot; width=&quot;560&quot; height=&quot;314&quot; allowfullscreen=&quot;allowfullscreen&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;</content>
+		<category term="Saúde" />
+	</entry>
+	<entry>
+		<title>Curar qualquer doença</title>
+		<link rel="alternate" type="text/html" href="http://backup/blog/index.php/saude/curar-qualquer-doenca"/>
+		<published>2024-03-09T12:40:30-03:00</published>
+		<updated>2024-03-09T12:40:30-03:00</updated>
+		<id>http://backup/blog/index.php/saude/curar-qualquer-doenca</id>
+		<author>
+			<name>Ribamar FS</name>
+		</author>
+		<summary type="html">&lt;h3 style=&quot;text-align: center;&quot;&gt;Como Curar QUALQUER doença, sintoma ou disfunção PRA SEMPRE&lt;/h3&gt;
+&lt;p&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/tGS85O9wpOM?si=8F6ThDvqUbvF09ZT&quot; width=&quot;560&quot; height=&quot;314&quot; allowfullscreen=&quot;allowfullscreen&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;</summary>
+		<content type="html">&lt;h3 style=&quot;text-align: center;&quot;&gt;Como Curar QUALQUER doença, sintoma ou disfunção PRA SEMPRE&lt;/h3&gt;
+&lt;p&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/tGS85O9wpOM?si=8F6ThDvqUbvF09ZT&quot; width=&quot;560&quot; height=&quot;314&quot; allowfullscreen=&quot;allowfullscreen&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;</content>
+		<category term="Saúde" />
+	</entry>
+	<entry>
+		<title>Lidando bem com a Depressão</title>
+		<link rel="alternate" type="text/html" href="http://backup/blog/index.php/saude/lidando-bem-com-a-depressao"/>
+		<published>2024-03-02T13:18:03-03:00</published>
+		<updated>2024-03-02T13:18:03-03:00</updated>
+		<id>http://backup/blog/index.php/saude/lidando-bem-com-a-depressao</id>
+		<author>
+			<name>Ribamar FS</name>
+		</author>
+		<summary type="html">&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/LIaRFyeMVaw?si=vEfhfRPD9Qb54K82&quot; width=&quot;560&quot; height=&quot;314&quot; allowfullscreen=&quot;allowfullscreen&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/LIaRFyeMVaw?si=vEfhfRPD9Qb54K82&quot; width=&quot;560&quot; height=&quot;314&quot; allowfullscreen=&quot;allowfullscreen&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;</content>
+		<category term="Saúde" />
+	</entry>
+	<entry>
+		<title>O que nos diz ansiedade</title>
+		<link rel="alternate" type="text/html" href="http://backup/blog/index.php/saude/o-que-nos-diz-ansiedade"/>
+		<published>2024-02-24T11:52:26-03:00</published>
+		<updated>2024-02-24T11:52:26-03:00</updated>
+		<id>http://backup/blog/index.php/saude/o-que-nos-diz-ansiedade</id>
+		<author>
+			<name>Ribamar FS</name>
+		</author>
+		<summary type="html">&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/oHwrvH20DDE?si=O2W5BRo1OKxG_Pj3&quot; width=&quot;560&quot; height=&quot;314&quot; allowfullscreen=&quot;allowfullscreen&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/oHwrvH20DDE?si=O2W5BRo1OKxG_Pj3&quot; width=&quot;560&quot; height=&quot;314&quot; allowfullscreen=&quot;allowfullscreen&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;</content>
+		<category term="Saúde" />
+	</entry>
+	<entry>
+		<title>Como o TDAH pode ter bons resultados</title>
+		<link rel="alternate" type="text/html" href="http://backup/blog/index.php/saude/como-o-tdah-pode-ter-bons-resultados"/>
+		<published>2024-02-23T11:22:08-03:00</published>
+		<updated>2024-02-23T11:22:08-03:00</updated>
+		<id>http://backup/blog/index.php/saude/como-o-tdah-pode-ter-bons-resultados</id>
+		<author>
+			<name>Ribamar FS</name>
+		</author>
+		<summary type="html">&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/WnGRBeHJwd8?si=0n0kZb6ukxdPflWj&quot; width=&quot;560&quot; height=&quot;314&quot; allowfullscreen=&quot;allowfullscreen&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/WnGRBeHJwd8?si=0n0kZb6ukxdPflWj&quot; width=&quot;560&quot; height=&quot;314&quot; allowfullscreen=&quot;allowfullscreen&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;</content>
+		<category term="Saúde" />
+	</entry>
+	<entry>
+		<title>Tentando explicar o TDAH</title>
+		<link rel="alternate" type="text/html" href="http://backup/blog/index.php/saude/tentando-explicar-o-tdah"/>
+		<published>2024-02-23T10:43:41-03:00</published>
+		<updated>2024-02-23T10:43:41-03:00</updated>
+		<id>http://backup/blog/index.php/saude/tentando-explicar-o-tdah</id>
+		<author>
+			<name>Ribamar FS</name>
+		</author>
+		<summary type="html">&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/9oQr_PLf9S4?si=7_ndwapruAxPYUZw&quot; width=&quot;560&quot; height=&quot;314&quot; allowfullscreen=&quot;allowfullscreen&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/9oQr_PLf9S4?si=7_ndwapruAxPYUZw&quot; width=&quot;560&quot; height=&quot;314&quot; allowfullscreen=&quot;allowfullscreen&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;</content>
+		<category term="Saúde" />
+	</entry>
+	<entry>
+		<title>TDAH por quem tem TDAH</title>
+		<link rel="alternate" type="text/html" href="http://backup/blog/index.php/saude/tdah-por-quem-tem-tdah"/>
+		<published>2024-02-23T09:38:14-03:00</published>
+		<updated>2024-02-23T09:38:14-03:00</updated>
+		<id>http://backup/blog/index.php/saude/tdah-por-quem-tem-tdah</id>
+		<author>
+			<name>Ribamar FS</name>
+		</author>
+		<summary type="html">&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/4UuOBRlP9fE?si=a3aiKxeBoHaMF6RB&quot; width=&quot;560&quot; height=&quot;314&quot; allowfullscreen=&quot;allowfullscreen&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/4UuOBRlP9fE?si=a3aiKxeBoHaMF6RB&quot; width=&quot;560&quot; height=&quot;314&quot; allowfullscreen=&quot;allowfullscreen&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;</content>
+		<category term="Saúde" />
+	</entry>
+</feed>

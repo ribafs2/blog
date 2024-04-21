@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Prog - Blog do RibaFS</title>
+		<description><![CDATA[]]></description>
+		<link>http://backup/blog/index.php/programacao</link>
+		<lastBuildDate>Sat, 20 Apr 2024 23:02:54 -0300</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://backup/blog/index.php/programacao?format=feed&amp;type=rss"/>
+		<language>pt-br</language>
+		<item>
+			<title>História do computador</title>
+			<link>http://backup/blog/index.php/programacao/historia-do-computador</link>
+			<guid isPermaLink="true">http://backup/blog/index.php/programacao/historia-do-computador</guid>
+			<description><![CDATA[<p> </p>
+<p><iframe src="https://www.youtube.com/embed/BbnDmeNojFA?si=ofTGWKDGYwlTjk7A" width="560" height="314" allowfullscreen="allowfullscreen"></iframe></p>
+<p> </p>]]></description>
+			<category>Programação</category>
+			<pubDate>Sat, 24 Feb 2024 12:46:49 -0300</pubDate>
+		</item>
+		<item>
+			<title>Alan Nícilas, Especialista em IA</title>
+			<link>http://backup/blog/index.php/programacao/alan-nicilas-especialista-em-ia</link>
+			<guid isPermaLink="true">http://backup/blog/index.php/programacao/alan-nicilas-especialista-em-ia</guid>
+			<description><![CDATA[<p><strong>Ao meu ver, vale muito a pena assistir</strong></p>
+<p><iframe src="https://www.youtube.com/embed/nksadR9ePfw?si=4b_OOvplc2OtPokQ" width="560" height="314" allowfullscreen="allowfullscreen"></iframe></p>
+<p> </p>]]></description>
+			<category>Programação</category>
+			<pubDate>Thu, 22 Feb 2024 18:10:53 -0300</pubDate>
+		</item>
+		<item>
+			<title>Ferramentas Auxiliares</title>
+			<link>http://backup/blog/index.php/programacao/ferramentas-auxiliares</link>
+			<guid isPermaLink="true">http://backup/blog/index.php/programacao/ferramentas-auxiliares</guid>
+			<description><![CDATA[<p> </p>
+<p><a href="http://backup/blog/index.php/treinamentos/loja-virtual/ferramentas-auxiliares">https://ribamar.net.br/index.php/treinamentos/loja-virtual/ferramentas-auxiliares</a></p>
+<p> </p>]]></description>
+			<category>Programação</category>
+			<pubDate>Thu, 22 Feb 2024 17:07:55 -0300</pubDate>
+		</item>
+		<item>
+			<title>Aprender a programar do jeito difícil</title>
+			<link>http://backup/blog/index.php/programacao/aprender-a-programar-do-jeito-dificil</link>
+			<guid isPermaLink="true">http://backup/blog/index.php/programacao/aprender-a-programar-do-jeito-dificil</guid>
+			<description><![CDATA[<p><strong>Enquanto muita gente "boa" nos diz que programar é fácil, aparece alguém e nos diz que é difícil, e mais importante, que é importante para o programador aprender a programar em baixo nível, sem frameworks. Para refleti, já vale somente por ser fora da caixinha.</strong></p>
+<p> </p>
+<p><iframe src="https://www.youtube.com/embed/PTEUvbnZ364?si=EFKgK0rY2fSgIYZz" width="560" height="314" allowfullscreen="allowfullscreen"></iframe></p>
+<p> </p>]]></description>
+			<category>Programação</category>
+			<pubDate>Wed, 21 Feb 2024 07:48:49 -0300</pubDate>
+		</item>
+		<item>
+			<title>Como criei meu site - 2</title>
+			<link>http://backup/blog/index.php/programacao/como-criei-meu-site-2</link>
+			<guid isPermaLink="true">http://backup/blog/index.php/programacao/como-criei-meu-site-2</guid>
+			<description><![CDATA[<div class="" dir="auto">
+<div id=":r15:" class="x1iorvi4 x1pi30zi x1l90r2v x1swvt13">
+<h4 class="x1heor9g x1qlqyl8 x1pd3egz x1a2a7pz xod5an3"><span class="x193iq5w xeuugli x13faqbe x1vvkbs x10flsy6 x1603h9y x1u7k74 xo1l8bm xzsf02u"> <img style="display: block; margin-left: auto; margin-right: auto;" src="http://backup/blog/images/criacaosites.png" width="600" height="450" /></span></h4>
+<div class="x1e56ztr"><span class="x193iq5w xeuugli x13faqbe x1vvkbs x10flsy6 x1f6kntn xvq8zen xo1l8bm xzsf02u">Primeira parte - <a class="x1i10hfl xjbqb8w x6umtig x1b1mbwd xaqea5y xav7gou x9f619 x1ypdohk xt0psk2 xe8uvvx xdj266r x11i5rnm xat24cr x1mh8g0r xexx8yu x4uap5 x18d9i69 xkhd6sd x16tdsg8 x1hl2dhg xggy1nq x1a2a7pz xt0b8zv x1fey0fg" tabindex="0" role="link" href="https://l.facebook.com/l.php?u=https%3A%2F%2Fribamar.net.br%2Findex.php%2Fblog%2Fprogramacao%3Ffbclid%3DIwAR323ChTxKPlsz2p8t8egw3XVTOohVWDTOK7mSxnMnhrb7262yp6nnm0xQo&amp;h=AT0-p5RDw_suuZ1otNrABV4jQ9xe__zl1HYcsWuFLSUz9QMmVJ6qzMQAxoXgZcqCaFz737KBBIilCmySET9DH_T_KlFM7V0mfZVdiVWbI7iRz7MfNBIAh5m6b9Hm&amp;__tn__=-UK-R&amp;c[0]=AT09q3Oqk0wv8gGvELTTKEm8LRm9D1qhs68weGIwdeCJnMoYlMYsliHBPRuhWcgR1_8DmJcyd6-2qx0yFCBVTcofxTQx6wlqbyujcoxgqG_hZYX6SlSUDsYKZBJNgd63lyCythMF_YfwprYoi2Mpv1_s4JYL-MdQiQTFIn5isvdL-QjYJSIK4UZhCPqP5l-gBeJduBt09eXxs7iNLE_2Q_o" target="_blank" rel="nofollow noopener noreferrer">https://ribamar.net.br/index.php/blog/programacao</a></span></div>
+<div class="x1e56ztr"> </div>
+<div class="x1e56ztr"><span class="x193iq5w xeuugli x13faqbe x1vvkbs x10flsy6 x1f6kntn xvq8zen xo1l8bm xzsf02u"><b>Infra</b></span></div>
+<div class="x1e56ztr"><span class="x193iq5w xeuugli x13faqbe x1vvkbs x10flsy6 x1f6kntn xvq8zen xo1l8bm xzsf02u">Muito importante: o SSL que uso nos sites é gratuito e usando a excelente ferramenta <a class="x1i10hfl xjbqb8w x6umtig x1b1mbwd xaqea5y xav7gou x9f619 x1ypdohk xt0psk2 xe8uvvx xdj266r x11i5rnm xat24cr x1mh8g0r xexx8yu x4uap5 x18d9i69 xkhd6sd x16tdsg8 x1hl2dhg xggy1nq x1a2a7pz xt0b8zv x1fey0fg" tabindex="0" role="link" href="https://certbot.eff.org/?fbclid=IwAR24WMhqEnuw2qkHJE7-UyVZdmLxVZcp2PrJmf9Jins7ID0BNmK7lWr0wjc" target="_blank" rel="nofollow noopener noreferrer">https://certbot.eff.org/</a></span></div>
+<div class="x1e56ztr"> </div>
+<div class="x1e56ztr"><span class="x193iq5w xeuugli x13faqbe x1vvkbs x10flsy6 x1f6kntn xvq8zen xo1l8bm xzsf02u"><b>Página inicial</b></span></div>
+<div class="x1e56ztr"><span class="x193iq5w xeuugli x13faqbe x1vvkbs x10flsy6 x1f6kntn xvq8zen xo1l8bm xzsf02u">Esta página estava em um segundo template, mas estava me gerando problemas. Resolvi instalar o módulo nativo para buscas e quando procurava algo ele queria mostrar o resultado na página inicial e se perdia. Então usei o template principal (T4 com blank-bs5) também como página inicial para resolver isso.</span></div>
+<div class="x1e56ztr"> </div>
+<div class="x1e56ztr"><span class="x193iq5w xeuugli x13faqbe x1vvkbs x10flsy6 x1f6kntn xvq8zen xo1l8bm xzsf02u"><b>Phoca Download </b></span></div>
+<div class="x1e56ztr"><span class="x193iq5w xeuugli x13faqbe x1vvkbs x10flsy6 x1f6kntn xvq8zen xo1l8bm xzsf02u">Mas o mais importante deixei para o final: a seção de material bruto que falei estar usando um index.php em PHP bruto. Procurando por boas extensões para Joomla reencontrei o Proca Downloads. Acontece que não consegui fazer ele funcionar com Search Engine Friendly e quando desativava meu site não encontrava maiis nada. Tive a iideia de criar um site exclusivo para o material e a coisa ficou uma beleza (eu gostei):</span></div>
+<div class="x1e56ztr"><span class="x193iq5w xeuugli x13faqbe x1vvkbs x10flsy6 x1f6kntn xvq8zen xo1l8bm xzsf02u"><a class="x1i10hfl xjbqb8w x6umtig x1b1mbwd xaqea5y xav7gou x9f619 x1ypdohk xt0psk2 xe8uvvx xdj266r x11i5rnm xat24cr x1mh8g0r xexx8yu x4uap5 x18d9i69 xkhd6sd x16tdsg8 x1hl2dhg xggy1nq x1a2a7pz xt0b8zv x1fey0fg" tabindex="0" role="link" href="https://material.ribamar.net.br/?fbclid=IwAR2RJmUGD1U8f-bOge9tySVCKHqqgEBSqxpdxYhvdLFK4a4hphSrfvDmqK4" target="_blank" rel="nofollow noopener noreferrer">https://material.ribamar.net.br/</a></span></div>
+<div class="x1e56ztr"> </div>
+<div class="x1e56ztr"><span class="x193iq5w xeuugli x13faqbe x1vvkbs x10flsy6 x1f6kntn xvq8zen xo1l8bm xzsf02u">Também não consegui usar o T4, que exige o SEF, então deixei o Cassiopeia.</span></div>
+<div class="x1e56ztr"> </div>
+<div class="x1e56ztr"><span class="x193iq5w xeuugli x13faqbe x1vvkbs x10flsy6 x1f6kntn xvq8zen xo1l8bm xzsf02u">Dica: eu acho melhor criar o site no desktop e quando pronto efetuar um backup dos arquivos e do banco e mandar para o servidor. Entenda, pode até ser que concorde comigo, pode ser que não, cada um de nós tem experiências que nos distinguem.</span></div>
+</div>
+</div>
+<div id=":r16:" class="x1n2onr6">
+<div class="x1n2onr6">
+<div class="xmjcpbm x1n2onr6">
+<div class="xua58t2 xwmqs3e xxxdfa6 xzg4506 x78zum5 x1q0g3np x1n2onr6">
+<div id=":r1g:" class="x6s0dn4 x78zum5 x88h70y xw2csxc x1odjw0f xyamay9 x1pi30zi x1l90r2v x1swvt13">
+<div class="x78zum5 xdt5ytf xz62fqu x16ldp7u">
+<div class="xu06os2 x1ok221b">
+<div class="xtvhhri"> </div>
+</div>
+<div class="xu06os2 x1ok221b">
+<div> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>]]></description>
+			<category>Programação</category>
+			<pubDate>Thu, 04 Jan 2024 11:48:27 -0300</pubDate>
+		</item>
+		<item>
+			<title>Criação deste site</title>
+			<link>http://backup/blog/index.php/programacao/criacao-deste-site</link>
+			<guid isPermaLink="true">http://backup/blog/index.php/programacao/criacao-deste-site</guid>
+			<description><![CDATA[<p><strong>Como criei este site</strong></p>
+<p><strong><img src="http://backup/blog/images/criacaosites.png" width="600" height="450" /></strong></p>
+<p><strong>Crédito: <a href="https://loupbr.com/servicos-web/criacao-de-sites/">https://loupbr.com/servicos-web/criacao-de-sites/</a> </strong></p>
+<p><strong>Infra estrutura</strong></p>
+<p>Para isso contratei um VPS modesto na Digital Ocean. Instalei o Debian 12 e nele coloquei inicialmente PHP 8.2, apache, mysql e cia. Mas como estou preendendo que este site seja um modelo para a clientela que planejo atingir, então fiz uma rápida pesquisa pelo servidor web Nginx. Já havia feito uns testes com ele, mas nunca usado em produção. Como vejo seu avanço e parece até que já começa a bater o apache em popularidade, resolvi experimentar. Tivve algumas dificuldades que compartilhei com o grupo Joomla Brasil. Lembro de recomendações que não compensava o tempo que se perdia. Como estou aposentado, com bastante tempo livre e também muita curiosidade e interesse de oferecer o melhor para mim e para os clientes, acabei aprendendo a usar o Nginx e agora já me sinto bem tranquilo com seu uso.</p>
+<p><strong>CMS</strong></p>
+<p>Este site foi criado com Joomla e PHP puro.</p>
+<p>Inicialmente usei o recente Joomla 5.0.0, mas logo desisti e voltei para o 4.4.1.</p>
+<p>Como quero criar um portal, que acesse todos os meus sites e blog. Para a página inicial baixei e adaptei um template free com bootstrap.</p>
+<p>Mas não gostei a mudei para um template para landing page, este:</p>
+<p><a href="https://github.com/ribafs/landingpage-joomla">https://github.com/ribafs/landingpage-joomla</a></p>
+<p>Então reduzi para apenas uma página para ser usado como página inicial do meu portal e está aqui:</p>
+<p><a href="https://ribamar.net.br/">https://ribamar.net.br/</a></p>
+<p>No caso usei dois templates em uma única instalação do Joomla, este com apenas o item de meni inicio e o outro com os demais.</p>
+<p>Como template principal inicialmente usei o purity iv, que usa o T4, mas com pouco tempo não gostei do design oferecido e não conseguia personalizar. Então pesquisando acabei no blank, também do T4, que tem alguns temas. O resultado está aqui:</p>
+<p><a href="http://backup/blog/entrada">https://ribamar.net.br/entrada</a></p>
+<p>Quando mudei o inicio para o outro template ele não assumia. Cheguei a pesquisar e pedir ajuda ao grupo, mas com algum tempo ele apareceu. Devia ser cache.</p>
+<p>No site principal acima resolvi abrigar todo o material de estudo e exemplos que tenho reunido por vários anos. Como também organizar por pastas tudo que produzi e hospedei no Github. Sinto falta desta organização no Github. Criei uma pasta chamada "down" dentro do site principal e coloquei todo o material lá. Se fosse uma instalação com apache bastaria criar um .htaccess com apenas um comando para permitir a listagem do diretório. Mas no Nginx eu não sabia fazer isso. Mas uma rápida pesquisa me mostrou que bastava um comando mas no arquivo de configuração.</p>
+<p>Detalhe: o Nginx é mais amarrado que o Apache, por isso mais seguro.</p>
+<p>Agora quando alguém acessava:</p>
+<p><a href="http://backup/blog/down/">https://ribamar.net.br/down/</a></p>
+<p>Ele tinha acesso a listagem pura dos arquiivos, o que não ficou nem um pouco agradável. Eu já tinha aqui mas achei melhor um outro arquivo que enconrei. Apenas um index.php que eu devia colocar em qualquer pasta a ser listada e ele dava uma formatação melhorada. Está assim:</p>
+<p><a href="http://backup/blog/down/">https://ribamar.net.br/down/</a></p>
+<p>Também descobri que poderia usaar os recursos do editor default do Joomla para criar uma boa eprática galeria de vídeos. Até baixei e instalei uma de terceiros mas ficou melhor assim:</p>
+<p><a href="http://backup/blog/index.php/sobre-mim/videos">https://ribamar.net.br/index.php/sobre-mim/videos</a></p>
+<p>Veja que tanto uso vídeos do Youtube quabto vídeos locais.</p>
+<p> </p>
+<p><strong>Módulos que gosto de usar</strong></p>
+<p>Dois módulos nativos do Joomla que uso em todos os sites que crio: Novidades e Populares. Também o Busca.</p>
+<p>Dois criados por mim: Pensamentos e Novo Testamento.</p>
+<p><strong>Backup</strong></p>
+<p>Desculpem alguns mas gosto e muito de reinventar a roda. Falo isso porque temos um componente consagrado para backup de sites Joomla, que é o do Akeeba, mas eu criei um do meu jeito, bem simples, que tem apenas um botão e nenhuma configuração e joga os links de arquivos e do banco.</p>
+<p>Estou usando este modificado para não guardar a pasta "down", que tem uuns 3GB e quase não muda.</p>
+<p>O original tá aqui:</p>
+<p><a href="http://backup/blog/down/devel/backend/CMS/Joomla/com_backup-main.zip">https://ribamar.net.br/down/devel/backend/CMS/Joomla/com_backup-main.zip</a></p>
+<p>e aqui:</p>
+<p><a href="https://github.com/ribafs/com_backup">https://github.com/ribafs/com_backup</a></p>
+<p>Planejo compartilhar mais detalhes sobre tudo isso.</p>]]></description>
+			<category>Programação</category>
+			<pubDate>Wed, 27 Dec 2023 11:12:03 -0300</pubDate>
+		</item>
+	</channel>
+</rss>

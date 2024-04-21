@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Superação - Blog do RibaFS</title>
+		<description><![CDATA[]]></description>
+		<link>http://backup/blog/index.php/superacao</link>
+		<lastBuildDate>Sat, 20 Apr 2024 23:02:54 -0300</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://backup/blog/index.php/superacao?format=feed&amp;type=rss"/>
+		<language>pt-br</language>
+		<item>
+			<title>O conselho de Denzel Washington</title>
+			<link>http://backup/blog/index.php/superacao/o-conselho-de-denzel-washington</link>
+			<guid isPermaLink="true">http://backup/blog/index.php/superacao/o-conselho-de-denzel-washington</guid>
+			<description><![CDATA[<p> </p>
+<p><iframe style="display: table; margin-left: auto; margin-right: auto;" src="https://www.youtube.com/embed/Gfg4-xpVZq8?si=sQD2eLDFzLrUoKUM" width="560" height="314" allowfullscreen="allowfullscreen"></iframe></p>
+<p> </p>]]></description>
+			<category>Superação</category>
+			<pubDate>Fri, 12 Apr 2024 20:53:19 -0300</pubDate>
+		</item>
+		<item>
+			<title>Comportamento Humano</title>
+			<link>http://backup/blog/index.php/superacao/comportamento-humano</link>
+			<guid isPermaLink="true">http://backup/blog/index.php/superacao/comportamento-humano</guid>
+			<description><![CDATA[<p> </p>
+<p><iframe src="https://www.youtube.com/embed/FYNvAYZKnPU?si=dWpR_js8FOD28liJ" width="560" height="314" allowfullscreen="allowfullscreen"></iframe></p>
+<p> </p>]]></description>
+			<category>Superação</category>
+			<pubDate>Mon, 12 Feb 2024 20:17:12 -0300</pubDate>
+		</item>
+		<item>
+			<title>Nick - Superação</title>
+			<link>http://backup/blog/index.php/superacao/superacao</link>
+			<guid isPermaLink="true">http://backup/blog/index.php/superacao/superacao</guid>
+			<description><![CDATA[<p> </p>
+<p><iframe src="https://www.youtube.com/embed/lxb1xG9LRYY?si=qhBn5t0OtkPFx7Ou" width="560" height="314" allowfullscreen="allowfullscreen"></iframe></p>
+<p> </p>]]></description>
+			<category>Superação</category>
+			<pubDate>Thu, 11 Jan 2024 08:37:05 -0300</pubDate>
+		</item>
+	</channel>
+</rss>
